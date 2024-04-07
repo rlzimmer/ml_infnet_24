@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/centr/Documents/Arquivos/Repositorio_finalizando/Repositorio/mlruns/933839861328643270/e43897c53de649088a75ad53f2248605/artifacts
+end_time: 1712459234047
+entry_point_name: ''
+experiment_id: '933839861328643270'
+lifecycle_stage: active
+run_id: e43897c53de649088a75ad53f2248605
+run_name: Treinamento
+run_uuid: e43897c53de649088a75ad53f2248605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712459216296
+status: 3
+tags: []
+user_id: centr

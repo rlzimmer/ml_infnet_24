@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/centr/Documents/Arquivos/Repositorio_finalizando/Repositorio/mlruns/933839861328643270/bfc6736fdb9041bca019d22ed2a13591/artifacts
+end_time: 1712459205148
+entry_point_name: ''
+experiment_id: '933839861328643270'
+lifecycle_stage: active
+run_id: bfc6736fdb9041bca019d22ed2a13591
+run_name: PreparacaoDados
+run_uuid: bfc6736fdb9041bca019d22ed2a13591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712459205112
+status: 3
+tags: []
+user_id: centr
